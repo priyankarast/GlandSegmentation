@@ -1,0 +1,61 @@
+,name,patient ID,grade, grade (Sirinukunwattana et al. 2015),set
+0,testA_1,4, benign, adenomatous,testA
+1,testA_10,10, benign, healthy,testA
+2,testA_11,9, benign, healthy,testA
+3,testA_12,11, malignant, poorly differentiated,testA
+4,testA_13,7, malignant, moderately differentiated,testA
+5,testA_14,7, malignant, moderately differentiated,testA
+6,testA_15,7, malignant, moderately differentiated,testA
+7,testA_16,4, malignant, moderately differentiated,testA
+8,testA_17,7, malignant, moderately differentiated,testA
+9,testA_18,9, benign, healthy,testA
+10,testA_19,11, benign, adenomatous,testA
+11,testA_2,3, benign, healthy,testA
+12,testA_20,9, benign, healthy,testA
+13,testA_21,9, benign, healthy,testA
+14,testA_22,11, malignant, moderately-to-poorly differentated,testA
+15,testA_23,4, malignant, poorly differentiated,testA
+16,testA_24,7, malignant, moderately differentiated,testA
+17,testA_25,10, benign, healthy,testA
+18,testA_26,7, malignant, moderately differentiated,testA
+19,testA_27,11, benign, adenomatous,testA
+20,testA_28,10, benign, healthy,testA
+21,testA_29,11, malignant, moderately-to-poorly differentated,testA
+22,testA_3,4, malignant, moderately differentiated,testA
+23,testA_30,4, benign, adenomatous,testA
+24,testA_31,9, benign, healthy,testA
+25,testA_32,11, malignant, moderately-to-poorly differentated,testA
+26,testA_33,9, benign, healthy,testA
+27,testA_34,4, malignant, poorly differentiated,testA
+28,testA_35,15, benign, healthy,testA
+29,testA_36,10, benign, healthy,testA
+30,testA_37,10, benign, healthy,testA
+31,testA_38,7, malignant, moderately differentiated,testA
+32,testA_39,7, malignant, moderately differentiated,testA
+33,testA_4,9, benign, healthy,testA
+34,testA_40,11, benign, adenomatous,testA
+35,testA_41,7, malignant, moderately differentiated,testA
+36,testA_42,7, malignant, moderately differentiated,testA
+37,testA_43,15, benign, healthy,testA
+38,testA_44,13, benign, healthy,testA
+39,testA_45,12, malignant, moderately differentiated,testA
+40,testA_46,4, benign, adenomatous,testA
+41,testA_47,11, malignant, moderately-to-poorly differentated,testA
+42,testA_48,4, malignant, poorly differentiated,testA
+43,testA_49,4, benign, adenomatous,testA
+44,testA_5,11, benign, adenomatous,testA
+45,testA_50,13, benign, healthy,testA
+46,testA_51,7, malignant, moderately differentiated,testA
+47,testA_52,4, benign, adenomatous,testA
+48,testA_53,7, malignant, moderately differentiated,testA
+49,testA_54,10, benign, healthy,testA
+50,testA_55,10, benign, healthy,testA
+51,testA_56,4, malignant, poorly differentiated,testA
+52,testA_57,11, malignant, poorly differentiated,testA
+53,testA_58,10, benign, healthy,testA
+54,testA_59,11, malignant, poorly differentiated,testA
+55,testA_6,9, benign, healthy,testA
+56,testA_60,4, benign, adenomatous,testA
+57,testA_7,4, benign, adenomatous,testA
+58,testA_8,11, malignant, poorly differentiated,testA
+59,testA_9,4, benign, adenomatous,testA

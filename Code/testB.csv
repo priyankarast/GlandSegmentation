@@ -1,0 +1,21 @@
+,name,patient ID,grade, grade (Sirinukunwattana et al. 2015),set
+60,testB_1,3, malignant, moderately differentiated,testB
+61,testB_10,3, malignant, moderately differentiated,testB
+62,testB_11,2, malignant, moderately-to-poorly differentated,testB
+63,testB_12,1, malignant, poorly differentiated,testB
+64,testB_13,7, malignant, moderately differentiated,testB
+65,testB_14,3, malignant, moderately differentiated,testB
+66,testB_15,1, malignant, poorly differentiated,testB
+67,testB_16,1, malignant, poorly differentiated,testB
+68,testB_17,5, benign, adenomatous,testB
+69,testB_18,2, malignant, moderately-to-poorly differentated,testB
+70,testB_19,2, malignant, moderately-to-poorly differentated,testB
+71,testB_2,7, malignant, moderately differentiated,testB
+72,testB_20,7, malignant, moderately differentiated,testB
+73,testB_3,2, malignant, moderately-to-poorly differentated,testB
+74,testB_4,5, benign, adenomatous,testB
+75,testB_5,5, benign, adenomatous,testB
+76,testB_6,3, malignant, moderately differentiated,testB
+77,testB_7,5, benign, adenomatous,testB
+78,testB_8,7, malignant, moderately differentiated,testB
+79,testB_9,1, malignant, poorly differentiated,testB
